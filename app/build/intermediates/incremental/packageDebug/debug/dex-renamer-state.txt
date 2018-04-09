@@ -1,0 +1,4 @@
+#Mon Apr 09 14:19:07 ICT 2018
+base.0=C\:\\IAK ITB\\pemateri\\iak-coffeeshop-master\\iak-coffeeshop-master\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
